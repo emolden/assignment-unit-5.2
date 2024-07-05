@@ -10,7 +10,10 @@
 }
 
 body {
+    margin: 0;
+}
+
+.background {
     background-image: url("record.png");
     background-repeat: repeat;
-    margin: 0;
 }
