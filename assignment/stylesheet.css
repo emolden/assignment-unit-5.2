@@ -1,5 +1,16 @@
 
-header {
+.purple-center {
     background-color: blueviolet;
     text-align: center;
+}
+
+.grey {
+    background-color:rgba(185, 185, 179, 1);
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
 }
